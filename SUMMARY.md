@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Pendahuluan](README.md)
+* [Pendahuluan](README.md)
 
 ## Laravel
 
