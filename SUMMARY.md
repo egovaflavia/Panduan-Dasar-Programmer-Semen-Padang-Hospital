@@ -5,7 +5,7 @@
 ## Laravel
 
 * [Lingkungan dan .env](laravel/lingkungan-dan-.env.md)
-* [Struktur Git Branch](laravel/struktur-git-branch.md)
+* [Struktur Branch](laravel/struktur-branch.md)
 * [Struktur Umum](laravel/struktur-umum.md)
 * [Penamaan & Format Kode](laravel/penamaan-and-format-kode.md)
 * [Controller](laravel/controller.md)
